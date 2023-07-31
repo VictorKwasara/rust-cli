@@ -1,0 +1,4 @@
+warning: unused manifest key: package.about
+warning: unused manifest key: package.author
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/echor -n help me`
